@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "received": true,
+    "receiveTime": 0.036,
+    "failed": false
+  },
+  {
+    "id": 1,
+    "received": true,
+    "receiveTime": 0.038,
+    "failed": false
+  },
+  {
+    "id": 2,
+    "received": true,
+    "receiveTime": 0.039,
+    "failed": false
+  },
+  {
+    "id": 3,
+    "received": true,
+    "receiveTime": 0.039,
+    "failed": false
+  },
+  {
+    "id": 4,
+    "received": true,
+    "receiveTime": 0.039,
+    "failed": false
+  },
+  {
+    "id": 5,
+    "received": false,
+    "receiveTime": null,
+    "failed": false
+  },
+  {
+    "id": 6,
+    "received": true,
+    "receiveTime": 0.04,
+    "failed": false
+  },
+  {
+    "id": 7,
+    "received": true,
+    "receiveTime": 0.041,
+    "failed": false
+  },
+  {
+    "id": 8,
+    "received": true,
+    "receiveTime": 0.041,
+    "failed": false
+  },
+  {
+    "id": 9,
+    "received": true,
+    "receiveTime": 0.042,
+    "failed": false
+  },
+  {
+    "id": 10,
+    "received": true,
+    "receiveTime": 0.042,
+    "failed": false
+  },
+  {
+    "id": 11,
+    "received": true,
+    "receiveTime": 0.042,
+    "failed": false
+  },
+  {
+    "id": 12,
+    "received": true,
+    "receiveTime": 0.043,
+    "failed": false
+  },
+  {
+    "id": 13,
+    "received": true,
+    "receiveTime": 0.043,
+    "failed": false
+  },
+  {
+    "id": 14,
+    "received": true,
+    "receiveTime": 0.043,
+    "failed": false
+  },
+  {
+    "id": 15,
+    "received": true,
+    "receiveTime": 0.044,
+    "failed": false
+  },
+  {
+    "id": 16,
+    "received": true,
+    "receiveTime": 0.044,
+    "failed": false
+  },
+  {
+    "id": 17,
+    "received": true,
+    "receiveTime": 0.044,
+    "failed": false
+  },
+  {
+    "id": 18,
+    "received": true,
+    "receiveTime": 0.045,
+    "failed": false
+  },
+  {
+    "id": 19,
+    "received": true,
+    "receiveTime": 0.05,
+    "failed": false
+  },
+  {
+    "id": 20,
+    "received": true,
+    "receiveTime": 0.051,
+    "failed": false
+  },
+  {
+    "id": 21,
+    "received": true,
+    "receiveTime": 0.051,
+    "failed": false
+  },
+  {
+    "id": 22,
+    "received": true,
+    "receiveTime": 0.051,
+    "failed": false
+  },
+  {
+    "id": 23,
+    "received": false,
+    "receiveTime": null,
+    "failed": false
+  },
+  {
+    "id": 24,
+    "received": true,
+    "receiveTime": 0.052,
+    "failed": false
+  },
+  {
+    "id": 25,
+    "received": true,
+    "receiveTime": 0.052,
+    "failed": false
+  },
+  {
+    "id": 26,
+    "received": true,
+    "receiveTime": 0.052,
+    "failed": false
+  },
+  {
+    "id": 27,
+    "received": false,
+    "receiveTime": null,
+    "failed": true
+  },
+  {
+    "id": 28,
+    "received": true,
+    "receiveTime": 0.053,
+    "failed": false
+  },
+  {
+    "id": 29,
+    "received": false,
+    "receiveTime": null,
+    "failed": false
+  },
+  {
+    "id": 30,
+    "received": true,
+    "receiveTime": 0.053,
+    "failed": false
+  },
+  {
+    "id": 31,
+    "received": true,
+    "receiveTime": 0.054,
+    "failed": false
+  },
+  {
+    "id": 32,
+    "received": true,
+    "receiveTime": 0.054,
+    "failed": false
+  },
+  {
+    "id": 33,
+    "received": true,
+    "receiveTime": 0.055,
+    "failed": false
+  },
+  {
+    "id": 34,
+    "received": true,
+    "receiveTime": 0.055,
+    "failed": false
+  },
+  {
+    "id": 35,
+    "received": true,
+    "receiveTime": 0.055,
+    "failed": false
+  },
+  {
+    "id": 36,
+    "received": true,
+    "receiveTime": 0.056,
+    "failed": false
+  },
+  {
+    "id": 37,
+    "received": true,
+    "receiveTime": 0.056,
+    "failed": false
+  },
+  {
+    "id": 38,
+    "received": false,
+    "receiveTime": null,
+    "failed": false
+  },
+  {
+    "id": 39,
+    "received": false,
+    "receiveTime": null,
+    "failed": false
+  },
+  {
+    "id": 40,
+    "received": false,
+    "receiveTime": null,
+    "failed": true
+  },
+  {
+    "id": 41,
+    "received": true,
+    "receiveTime": 0.057,
+    "failed": false
+  },
+  {
+    "id": 42,
+    "received": true,
+    "receiveTime": 0.057,
+    "failed": false
+  },
+  {
+    "id": 43,
+    "received": false,
+    "receiveTime": null,
+    "failed": false
+  },
+  {
+    "id": 44,
+    "received": true,
+    "receiveTime": 0.057,
+    "failed": false
+  },
+  {
+    "id": 45,
+    "received": true,
+    "receiveTime": 0.058,
+    "failed": false
+  },
+  {
+    "id": 46,
+    "received": true,
+    "receiveTime": 0.058,
+    "failed": false
+  },
+  {
+    "id": 47,
+    "received": true,
+    "receiveTime": 0.058,
+    "failed": false
+  },
+  {
+    "id": 48,
+    "received": false,
+    "receiveTime": null,
+    "failed": false
+  },
+  {
+    "id": 49,
+    "received": true,
+    "receiveTime": 0.059,
+    "failed": false
+  },
+  {
+    "id": 50,
+    "received": true,
+    "receiveTime": 0.06,
+    "failed": false
+  },
+  {
+    "id": 51,
+    "received": true,
+    "receiveTime": 0.06,
+    "failed": false
+  },
+  {
+    "id": 52,
+    "received": true,
+    "receiveTime": 0.06,
+    "failed": false
+  },
+  {
+    "id": 53,
+    "received": true,
+    "receiveTime": 0.06,
+    "failed": false
+  },
+  {
+    "id": 54,
+    "received": true,
+    "receiveTime": 0.061,
+    "failed": false
+  },
+  {
+    "id": 55,
+    "received": true,
+    "receiveTime": 0.061,
+    "failed": false
+  },
+  {
+    "id": 56,
+    "received": true,
+    "receiveTime": 0.061,
+    "failed": false
+  },
+  {
+    "id": 57,
+    "received": true,
+    "receiveTime": 0.062,
+    "failed": false
+  },
+  {
+    "id": 58,
+    "received": true,
+    "receiveTime": 0.062,
+    "failed": false
+  },
+  {
+    "id": 59,
+    "received": false,
+    "receiveTime": null,
+    "failed": false
+  },
+  {
+    "id": 60,
+    "received": false,
+    "receiveTime": null,
+    "failed": false
+  },
+  {
+    "id": 61,
+    "received": true,
+    "receiveTime": 0.062,
+    "failed": false
+  },
+  {
+    "id": 62,
+    "received": true,
+    "receiveTime": 0.063,
+    "failed": false
+  },
+  {
+    "id": 63,
+    "received": true,
+    "receiveTime": 0.064,
+    "failed": false
+  },
+  {
+    "id": 64,
+    "received": false,
+    "receiveTime": null,
+    "failed": true
+  },
+  {
+    "id": 65,
+    "received": true,
+    "receiveTime": 0.064,
+    "failed": false
+  },
+  {
+    "id": 66,
+    "received": false,
+    "receiveTime": null,
+    "failed": false
+  },
+  {
+    "id": 67,
+    "received": false,
+    "receiveTime": null,
+    "failed": true
+  },
+  {
+    "id": 68,
+    "received": true,
+    "receiveTime": 0.065,
+    "failed": false
+  },
+  {
+    "id": 69,
+    "received": true,
+    "receiveTime": 0.065,
+    "failed": false
+  },
+  {
+    "id": 70,
+    "received": true,
+    "receiveTime": 0.065,
+    "failed": false
+  },
+  {
+    "id": 71,
+    "received": true,
+    "receiveTime": 0.065,
+    "failed": false
+  },
+  {
+    "id": 72,
+    "received": true,
+    "receiveTime": 0.066,
+    "failed": false
+  },
+  {
+    "id": 73,
+    "received": true,
+    "receiveTime": 0.066,
+    "failed": false
+  },
+  {
+    "id": 74,
+    "received": true,
+    "receiveTime": 0.066,
+    "failed": false
+  },
+  {
+    "id": 75,
+    "received": true,
+    "receiveTime": 0.067,
+    "failed": false
+  },
+  {
+    "id": 76,
+    "received": true,
+    "receiveTime": 0.067,
+    "failed": false
+  },
+  {
+    "id": 77,
+    "received": true,
+    "receiveTime": 0.068,
+    "failed": false
+  },
+  {
+    "id": 78,
+    "received": true,
+    "receiveTime": 0.068,
+    "failed": false
+  },
+  {
+    "id": 79,
+    "received": true,
+    "receiveTime": 0.068,
+    "failed": false
+  },
+  {
+    "id": 80,
+    "received": true,
+    "receiveTime": 0.069,
+    "failed": false
+  },
+  {
+    "id": 81,
+    "received": true,
+    "receiveTime": 0.069,
+    "failed": false
+  },
+  {
+    "id": 82,
+    "received": true,
+    "receiveTime": 0.069,
+    "failed": false
+  },
+  {
+    "id": 83,
+    "received": true,
+    "receiveTime": 0.07,
+    "failed": false
+  },
+  {
+    "id": 84,
+    "received": true,
+    "receiveTime": 0.07,
+    "failed": false
+  },
+  {
+    "id": 85,
+    "received": true,
+    "receiveTime": 0.07,
+    "failed": false
+  },
+  {
+    "id": 86,
+    "received": false,
+    "receiveTime": null,
+    "failed": false
+  },
+  {
+    "id": 87,
+    "received": true,
+    "receiveTime": 0.071,
+    "failed": false
+  },
+  {
+    "id": 88,
+    "received": false,
+    "receiveTime": null,
+    "failed": false
+  },
+  {
+    "id": 89,
+    "received": true,
+    "receiveTime": 0.071,
+    "failed": false
+  },
+  {
+    "id": 90,
+    "received": true,
+    "receiveTime": 0.071,
+    "failed": false
+  },
+  {
+    "id": 91,
+    "received": true,
+    "receiveTime": 0.074,
+    "failed": false
+  },
+  {
+    "id": 92,
+    "received": true,
+    "receiveTime": 0.075,
+    "failed": false
+  },
+  {
+    "id": 93,
+    "received": true,
+    "receiveTime": 0.075,
+    "failed": false
+  },
+  {
+    "id": 94,
+    "received": true,
+    "receiveTime": 0.076,
+    "failed": false
+  },
+  {
+    "id": 95,
+    "received": true,
+    "receiveTime": 0.076,
+    "failed": false
+  },
+  {
+    "id": 96,
+    "received": true,
+    "receiveTime": 0.076,
+    "failed": false
+  },
+  {
+    "id": 97,
+    "received": false,
+    "receiveTime": null,
+    "failed": false
+  },
+  {
+    "id": 98,
+    "received": true,
+    "receiveTime": 0.076,
+    "failed": false
+  },
+  {
+    "id": 99,
+    "received": true,
+    "receiveTime": 0.077,
+    "failed": false
+  }
+]
